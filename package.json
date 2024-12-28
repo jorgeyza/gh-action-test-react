@@ -1,5 +1,6 @@
 {
   "name": "gh-action-test-react",
+  "homepage": "https://jorgeyza.github.io/gh-action-test-react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
